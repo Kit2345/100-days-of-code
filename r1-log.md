@@ -13,3 +13,7 @@ Went through notes of the School of Code pre-course (html and CSS)
 ### R1D2
 Completed the section on CSS and the Box Model on FreeCodeCamp
 https://twitter.com/CodingKit2345/status/1696946840883597388
+
+### R1D3
+Completed the section on CSS FlexBox on FreeCodeCamp
+https://twitter.com/CodingKit2345/status/1697341162036588556
