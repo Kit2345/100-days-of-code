@@ -21,3 +21,9 @@ https://twitter.com/CodingKit2345/status/1697341162036588556
 ### R1D4
 Completed the section on Typography on FreeCodeCamp
 https://twitter.com/CodingKit2345/status/1697543738870890683
+
+### R1D5
+Started the section on Accessibility on FreeCodeCamp
+https://twitter.com/CodingKit2345/status/1698095765816574149 
+
+Thoughts: Slow progress today, had to look up lots of things including aria-labelledby, ::before, > selector, flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/). Lots of new concepts! 
